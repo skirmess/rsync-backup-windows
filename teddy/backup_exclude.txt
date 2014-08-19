@@ -1,0 +1,11 @@
+kirmess/AppData/Local/Mozilla/Firefox/Profiles/*/Cache
+kirmess/AppData/Local/Microsoft/Windows/Temporary Internet Files
+kirmess/ntuser.dat*
+kirmess/AppData/Local/Microsoft/Windows Defender/FileTracker
+kirmess/AppData/Local/Temp
+kirmess/AppData/Local/Microsoft/Windows/UsrClass.dat*
+UpdatusUser
+kirmess/NTUSER.DAT
+kirmess/AppData/Local/Packages/*/Settings/*
+kirmess/AppData/Local/Microsoft/Windows/Notifications/*
+kirmess/AppData/Local/Microsoft/Windows/WebCache*
