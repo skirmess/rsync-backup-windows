@@ -1,0 +1,16 @@
+*/AppData/Local/Battle.net/BrowserCache
+*/AppData/Local/Battle.net/Cache
+*/AppData/Local/Microsoft/Windows/Temporary Internet Files
+*/AppData/Local/Microsoft/Windows/UsrClass.dat*
+*/AppData/Local/Microsoft/Windows/WebCache*
+*/AppData/Local/Mozilla/Firefox/Profiles/*/cache2
+*/AppData/Local/Mozilla/Firefox/Profiles/*/parent.lock
+*/AppData/Local/Mozilla/Firefox/Profiles/*/safebrowsing
+*/AppData/Local/NVIDIA
+*/AppData/Local/Steam/htmlcache
+*/AppData/Local/Temp
+*/AppData/LocalLow/Microsoft/CryptnetUrlCache
+*/AppData/Roaming/Microsoft/Windows/Recent
+*/AppData/Roaming/Mozilla/Firefox/Profiles/*/parent.lock
+*/NTUSER.DAT
+*/ntuser.dat.LOG*
